@@ -14,5 +14,3 @@
 <img width="1440" alt="Снимок экрана 2025-05-05 в 09 05 19" src="https://github.com/user-attachments/assets/02178e7c-d906-4862-87b9-3f203e4637df" />
 
 <img width="1440" alt="Снимок экрана 2025-05-05 в 09 05 51" src="https://github.com/user-attachments/assets/5e862d61-2488-48ab-bb2a-4b52fb21e007" />
-
-<img width="1440" alt="Снимок экрана 2025-05-05 в 09 09 34" src="https://github.com/user-attachments/assets/ec548b2f-5b4b-4401-ba44-53fbab4ee719" />
